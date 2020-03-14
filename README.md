@@ -54,7 +54,7 @@ a runnable Maven structured and managed Java code with unit tests is provided an
 - open the Java project by Eclipse (or any other capatible IDE)
 - go to the "phonekeys2letters" project, directory/file path "src/main/java" -> "com.xzy.phonekeys2letters" -> "PhoneKeyConverter.java"
 - double click to open the "PhoneKeyConverter.java" on text editor of the Eclipse IDE (or other capatible IDEs)
-- change the String type variable of str to be your own input in the main method, please follow the example text format
+- change the String type variable of str to be your own input in the main method, please follow the example text format on the comment section
 - verify your output on the IDE console
 
 ### About the author
