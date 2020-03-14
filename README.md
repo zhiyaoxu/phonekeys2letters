@@ -5,7 +5,7 @@ To conduct a comprehensive deliverable to demonstrate project activities and res
 
 ### Target
 
-a demo to show maven abilities to allow users to input phone dialing keys to obtain all possible alphabetical character combinations.
+a Java demo application to show Maven abilities to allow users to input phone dialing keys to obtain all possible alphabetical character combinations.
 
 ### Requirements
 
@@ -45,6 +45,17 @@ Because every digit, except 0 and 1, is mapped to multiple alphabets, the code n
 ### Process Schedule
 
 Scheduling excel sheet is available to download.
+
+### Porject Result
+
+a runnable Maven structured and managed Java code with unit tests is provided and available for download.
+
+### User Guide
+- open the Java project by Eclipse (or any other capatible IDE)
+- go to the "phonekeys2letters" project, directory/file path "src/main/java" -> "com.xzy.phonekeys2letters" -> "PhoneKeyConverter.java"
+- double click to open the "PhoneKeyConverter.java" on text editor of the Eclipse IDE (or other capatible IDEs)
+- change the String type variable of str to be your own input in the main method, please follow the example text format
+- verify your output on the IDE console
 
 ### About the author
 
