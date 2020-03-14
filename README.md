@@ -44,7 +44,7 @@ Because every digit, except 0 and 1, is mapped to multiple alphabets, the code n
 
 ### Process Schedule
 
-Scheduling excel sheet is available to download.
+Scheduling timetable PDF file is available to download.
 
 ### Porject Result
 
